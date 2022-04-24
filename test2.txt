@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Update by Dev2
+=======
+Hello I am Linux. I am trying to clone.
+>>>>>>> ec34d1720de4f3d7090ffc772b3d9444968b75ef
